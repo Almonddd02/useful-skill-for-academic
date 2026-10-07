@@ -1,0 +1,94 @@
+{
+  "imported_on": "2026-10-07",
+  "source": "User-supplied Codex skill ZIP archives",
+  "layout": "skills/<original-skill-folder>/",
+  "skill_count": 12,
+  "file_count": 3030,
+  "uncompressed_bytes": 74565606,
+  "packages": [
+    {
+      "skill": "academic-research-suite",
+      "source_archive": "academic-research-suite.zip",
+      "archive_sha256": "ee988b8386ec99d8f286f2134a473213e73f341d58c8c3603ecc9842df9554f0",
+      "file_count": 2637,
+      "uncompressed_bytes": 38362505
+    },
+    {
+      "skill": "nature-academic-search",
+      "source_archive": "nature-academic-search.zip",
+      "archive_sha256": "14a92b2216d96526f4743decd29d40f7e1ef49f42a36403479ad36f9e31308e7",
+      "file_count": 48,
+      "uncompressed_bytes": 265663
+    },
+    {
+      "skill": "nature-figure",
+      "source_archive": "nature-figure.zip",
+      "archive_sha256": "61c31ae67b7e1292fab029637fd18e5e8098b8cff32a8b8e1cd04800e2eabfac",
+      "file_count": 126,
+      "uncompressed_bytes": 35105537
+    },
+    {
+      "skill": "nature-paper2ppt",
+      "source_archive": "nature-paper2ppt.zip",
+      "archive_sha256": "9a8d90c191dc2626b4038c3c13b6643777ab248b55eda73a9256e3349336bbe3",
+      "file_count": 19,
+      "uncompressed_bytes": 75475
+    },
+    {
+      "skill": "nature-reader",
+      "source_archive": "nature-reader.zip",
+      "archive_sha256": "3f01765ff5ef4a402e5fe0388ab8947c43399d30fcb7252ddee6e6283d436210",
+      "file_count": 20,
+      "uncompressed_bytes": 67515
+    },
+    {
+      "skill": "nature-ref-verifier",
+      "source_archive": "nature-ref-verifier.zip",
+      "archive_sha256": "ef2041a297721374b15666952c90e50ee07c6c2482b7391ac13bf11a8b07e08b",
+      "file_count": 6,
+      "uncompressed_bytes": 18449
+    },
+    {
+      "skill": "nature-response",
+      "source_archive": "nature-response.zip",
+      "archive_sha256": "c6a57df47fa37084154a57eb445bddf9e182859699f38e41dc68c442090bae72",
+      "file_count": 38,
+      "uncompressed_bytes": 156506
+    },
+    {
+      "skill": "nature-reviewer",
+      "source_archive": "nature-reviewer.zip",
+      "archive_sha256": "1633f26075aaa0751925201af3a2c403feb2d85a93917c724d54d655503e3297",
+      "file_count": 21,
+      "uncompressed_bytes": 103343
+    },
+    {
+      "skill": "nature-shared",
+      "source_archive": "nature-shared.zip",
+      "archive_sha256": "907706f880521a42714d45f52c5b975c2c7a6fbd08f08cb9b7cad6df05a35d33",
+      "file_count": 21,
+      "uncompressed_bytes": 134348
+    },
+    {
+      "skill": "nature-statistics",
+      "source_archive": "nature-statistics.zip",
+      "archive_sha256": "94a95bad6d179dffbe6ffc22909da1d3260fe92621b64a2f5eae86eac41add3f",
+      "file_count": 11,
+      "uncompressed_bytes": 37797
+    },
+    {
+      "skill": "nature-writing",
+      "source_archive": "nature-writing.zip",
+      "archive_sha256": "a30522e1a1c30c3451e9b60edba68941a7eff457f47209a7264d4f6571c53c33",
+      "file_count": 77,
+      "uncompressed_bytes": 211998
+    },
+    {
+      "skill": "scientific-figure-making",
+      "source_archive": "scientific-figure-making.zip",
+      "archive_sha256": "6d2073e6fb9029b72f40ffbfaaa40f0aa11ba0d23d31989593f101505346803f",
+      "file_count": 6,
+      "uncompressed_bytes": 26470
+    }
+  ]
+}
